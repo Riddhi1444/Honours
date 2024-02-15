@@ -10,6 +10,6 @@ function isLeapYear(year) {
     }
   }
   export {isLeapYear};
-  console.log("done")
+ 
   
   
